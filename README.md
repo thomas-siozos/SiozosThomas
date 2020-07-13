@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-{<br/>
-  "firstName" : Thomas,<br/>
-  "lastName": Siozos,<br/>
-
-}
-
+ - :computer: I'm currently working on Terracom S.A.
 <!--
 **SiozosThomas/SiozosThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
