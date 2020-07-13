@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+![gif](giphy.gif)
+
  - :computer: Work: Terracom S.A.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
+ - :dart: Learning: Web Development.
  - :house: Location: Ioannina (GR).
  - :alien: Army: Fulfilled.
 <!--
