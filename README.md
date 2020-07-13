@@ -1,6 +1,9 @@
 ### Hi there 👋
 
- - :computer: I'm currently working on Terracom S.A.
+ - :computer: Work: Terracom S.A.
+ - :bulb: Education: University of Ioannina: Computer Science & Engineering.
+ - :house: Location: Ioannina (GR).
+ - :alien: Army: Fulfilled.
 <!--
 **SiozosThomas/SiozosThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
