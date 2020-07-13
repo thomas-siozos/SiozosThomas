@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ - :wavy_dash: Software Engineer :wavy_dash:
  - :computer: Work: Terracom S.A.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
  - :dart: Learning: Web Development.
