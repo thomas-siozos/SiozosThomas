@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![gif](https://github.com/SiozosThomas/SiozosThomas/blob/master/giphy.gif)
-
  - :computer: Work: Terracom S.A.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
  - :dart: Learning: Web Development.
