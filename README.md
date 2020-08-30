@@ -6,6 +6,8 @@
  - :dart: Learning: Angular.
  - :house: Location: Ioannina (GR).
  - :alien: Army: Fulfilled.
+ 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?SiozosThomas=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SiozosThomas/SiozosThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
