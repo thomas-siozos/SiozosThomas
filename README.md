@@ -3,7 +3,7 @@
  - :wavy_dash: Software Engineer :wavy_dash:
  - :computer: Work: Terracom S.A.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
- - :dart: Learning: Machine Learning.
+ - :dart: Learning: ASP.NET - Blazor.
  - :house: Location: Ioannina (GR).
  - :alien: Army: Fulfilled.
 <!--
