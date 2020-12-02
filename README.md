@@ -4,6 +4,7 @@
  - :computer: Work: Terracom S.A.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
  - :dart: Learning: ASP.NET - Blazor.
+ - :earth_africa: Languages: Greek - English.
  - :house: Location: Ioannina (GR).
  - :alien: Army: Fulfilled.
 <!--
