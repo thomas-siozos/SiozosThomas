@@ -1,9 +1,9 @@
 ### Hi there 👋
 
  - :wavy_dash: Software Engineer :wavy_dash:
- - :computer: Work: Terracom S.A.
+ - :computer: Work: P&I Hellas.
  - :bulb: Education: University of Ioannina: Computer Science & Engineering.
- - :dart: Learning: ASP.NET - Blazor.
+ - :dart: Learning: React.
  - :earth_africa: Languages: Greek - English.
  - :house: Location: Ioannina (GR).
  - :alien: Army: Fulfilled.
